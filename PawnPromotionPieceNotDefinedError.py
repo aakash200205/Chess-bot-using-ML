@@ -1,0 +1,4 @@
+
+
+class PawnPromotionPieceNotDefinedError(Exception):
+	pass
